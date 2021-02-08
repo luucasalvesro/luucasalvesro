@@ -1,7 +1,7 @@
 ## Hello, I'm Lucas Alves
 ## Student of Artificial Intelligence and Machine Learning
 
-I like to venture out to solve complex challenges that bring positive points to people and add value to the business.
+I like to venture out to solve complex challenges that bring positive points to people and add value to the business. For this reason, I chose the Data Science area as a professional career, I believe in the power of data to solve complex problems.
 
 In this repository you will find data science projects completed by me for academic, self-learning and hobby purposes. It is still under construction, so I will be adding new projects and also detailing those that have already been done.
 
