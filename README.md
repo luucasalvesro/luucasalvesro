@@ -28,6 +28,21 @@ I learned a lot and I am still learning more every day with all the projects I v
   An basic implementation of a machine learning model to forecast housing prices.
   
   Repository: https://github.com/luucasalvesro/Housing-Prices-Forecast/
+  
+### [Fraud Detection](https://github.com/luucasalvesro/Fraud-Detection/) (Project in progress)
+  Machine Learning classifier to label fraudulent transactions of a synthetic dataset. 
+  
+  Repository: https://github.com/luucasalvesro/Housing-Prices-Forecast/
+  
+### [Sentiment Analysis of IMDB Reviews](https://github.com/luucasalvesro/Sentiment-Analysis-IMDB/) (Project in progress)
+  Natural Language Processing project to classify negative and positive feelings from IMDB movie reviews. 
+  
+  Repository: https://github.com/luucasalvesro/Housing-Prices-Forecast/
+  
+### [Cardiovascular Disease Prediction](https://github.com/luucasalvesro/Cardiovascular-Disease-Prediction/) (Project in progress)
+  Machine Learning model to detect Cardiovascular Diseases in early stages. 
+  
+  Repository: https://github.com/luucasalvesro/Housing-Prices-Forecast/
 
 <!--
 **luucasalvesro/luucasalvesro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
