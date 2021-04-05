@@ -15,7 +15,7 @@ I learned a lot and I am still learning more every day with all the projects I v
 ## Projects
 
 ### [Predictive Maintenance](https://github.com/luucasalvesro/Predictive-Maintenance)
-  A machine learning model for estimating remaining useful life of turbines for predictive maintenance. In this project, I created a machine learning model capable of estimating the remaining useful life and also its probability of failure in 20 days. With this estimation, it is possible to avoid possible accidents due to lack of maintenance, as well as developing a smart maintenance schedule.
+  A machine learning model for estimating remaining useful life of turbines for predictive maintenance. In this project, I created a machine learning model capable of estimating the remaining useful life and also its probability of failure in 20 cycles ahead. With this estimation, it is possible to avoid possible accidents due to lack of maintenance, as well as developing a smart maintenance schedule.
   
   Repository: https://github.com/luucasalvesro/Predictive-Maintenance
 
